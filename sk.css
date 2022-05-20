@@ -1,0 +1,14 @@
+body{
+    background-color: wheat;
+}
+
+.winner{
+    color: green;
+}
+
+.loser{
+    color: red;
+}
+.normal{
+    color: black;
+}
